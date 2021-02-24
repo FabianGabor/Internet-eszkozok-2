@@ -1,5 +1,11 @@
 <?php
 /*
+ * Fábián Gábor
+ * CXNU8T
+ * https://github.com/FabianGabor/Internet-eszkozok-2
+ */
+
+/*
  * $ valtozo
  * $tomb = array();
  * $tomb = array(1,2,3);

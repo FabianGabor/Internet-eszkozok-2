@@ -1,3 +1,10 @@
+<?php
+/*
+ * Fábián Gábor
+ * CXNU8T
+ * https://github.com/FabianGabor/Internet-eszkozok-2
+ */
+ ?>
 <!doctype html>
 <html class="no-js" lang="hu">
 
